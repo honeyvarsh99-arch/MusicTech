@@ -1,2 +1,2 @@
 # MusicTech
-this is the project of honeyvarsh 
+owner of the project of honeyvarsh 
